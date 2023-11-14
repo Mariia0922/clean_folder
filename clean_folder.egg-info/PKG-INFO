@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: clean-folder
+Version: 0.0.1
+Summary: Very useful code
+Author: Mariia
+Author-email: mashakeyt2209@gmail.com
+License: MIT
+Requires-Dist: markdown
